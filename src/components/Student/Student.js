@@ -35,7 +35,7 @@ class Student extends Component {
 
   render() {
     return(
-      <div className="person">
+      <div className="person student">
         <img src={this.state.photo} />
         <h1 className="person-name">{this.state.name}
         </h1>        

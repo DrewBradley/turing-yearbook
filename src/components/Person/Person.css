@@ -9,6 +9,10 @@
   border-radius: 10px;
 }
 
+.student {
+  height: 500px;
+}
+
 img {
   width: 80%;
   height: 60%;
@@ -36,5 +40,8 @@ img {
 form {
   display: flex;
   flex-direction: column;
-  margin: 0%;
+}
+
+button {
+  margin: 2%;
 }
